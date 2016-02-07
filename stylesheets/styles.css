@@ -19,7 +19,6 @@ body {
 }
 
 
-
 .wrapper {
   width: 640px;
   margin: 0 auto;
@@ -355,4 +354,11 @@ footer p + p {
   header p.view a small:before {
     content: 'at https://github.com/';
   }
+}
+
+.github {
+  margin-right: 5px;
+}
+.wordpress {
+  margin-right: 2px;
 }
